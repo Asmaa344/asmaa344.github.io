@@ -589,6 +589,10 @@ nav {
   color: var(--text-color) !important;
 }
 
+.logo img {
+  width: 60px;
+} 
+
 .primary-btn:hover {
   transform: translateY(-3px);
   box-shadow: 0 5px 15px rgba(100, 255, 218, 0.4);
